@@ -1,3 +1,3 @@
 # auto-tries
 
-use predict.py file only try to predict values
+use predict.py file only. Try to predict values
